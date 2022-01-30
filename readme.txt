@@ -2,7 +2,7 @@
 Contributors: gpepe
 Tags: relative link, relative url, staging, https, seo
 Requires at least: 5.2.3
-Tested up to: 5.7
+Tested up to: 5.9
 Requires PHP: 7.2
 Stable tag: 1.0.0
 License: GPL2
